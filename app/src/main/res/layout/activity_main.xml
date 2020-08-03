@@ -5,10 +5,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:gravity="center">
+    android:gravity="center"
+    android:background="@drawable/background">
     <Button
         android:background="@drawable/roundedbutton"
         android:layout_width="250dp"
         android:layout_height="250dp"
+        android:text="Сделать Bruuuuuh!"
         />
 </LinearLayout>
