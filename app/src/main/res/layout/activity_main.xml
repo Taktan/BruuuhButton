@@ -8,12 +8,15 @@
     android:gravity="center"
     android:background="@drawable/background">
     <Button
+        android:id="@+id/btn_sound"
         android:background="@drawable/roundedbutton"
-        android:layout_width="250dp"
-        android:layout_height="250dp"
+        android:layout_width="170dp"
+        android:layout_height="170dp"
         android:text="Сделать \nBruuuuuh!"
         android:fontFamily="@font/flexo_bold"
-        android:textSize="36dp"
+        android:textSize="25dp"
         android:textColor="#B2F7EF"
+        android:elevation="100dp"
+
         />
 </LinearLayout>
