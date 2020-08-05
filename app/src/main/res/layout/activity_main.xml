@@ -12,11 +12,10 @@
         android:background="@drawable/roundedbutton"
         android:layout_width="170dp"
         android:layout_height="170dp"
-        android:text="Сделать \nBruuuuuh!"
+        android:text="Bruuuh!"
         android:fontFamily="@font/flexo_bold"
-        android:textSize="25dp"
+        android:textSize="32dp"
         android:textColor="#B2F7EF"
         android:elevation="100dp"
-
         />
 </LinearLayout>
